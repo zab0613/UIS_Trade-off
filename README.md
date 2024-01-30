@@ -1,6 +1,13 @@
 # UIS_Trade-off
 
-Foobar is a Python library for dealing with word pluralization.
+This repository is the official implementation of the paper:
+* On the Utility-Informativeness-Security Trade-off in Discrete Task-Oriented Semantic Communication
+* Authors: Anbang Zhang, Yanhu Wang, and Shuaishuai Guo
+
+## Design Philosophy
+### This Work: Synergistic Alignment of Learning and Communication Objectives
+![9bb7b791ab362947901ad0c3439e530](https://github.com/zab0613/UIS_Trade-off/assets/117052094/e6d80e85-9532-4b05-8777-3b59f61c394c)
+
 
 ## Installation
 
